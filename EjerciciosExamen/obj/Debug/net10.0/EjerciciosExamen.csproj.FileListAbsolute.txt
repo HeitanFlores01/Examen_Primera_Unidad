@@ -1,0 +1,15 @@
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\bin\Debug\net10.0\EjerciciosExamen.exe
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\bin\Debug\net10.0\EjerciciosExamen.deps.json
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\bin\Debug\net10.0\EjerciciosExamen.runtimeconfig.json
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\bin\Debug\net10.0\EjerciciosExamen.dll
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\bin\Debug\net10.0\EjerciciosExamen.pdb
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\obj\Debug\net10.0\EjerciciosExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\obj\Debug\net10.0\EjerciciosExamen.AssemblyInfoInputs.cache
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\obj\Debug\net10.0\EjerciciosExamen.AssemblyInfo.cs
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\obj\Debug\net10.0\EjerciciosExamen.csproj.CoreCompileInputs.cache
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\obj\Debug\net10.0\EjerciciosExamen.sourcelink.json
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\obj\Debug\net10.0\EjerciciosExamen.dll
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\obj\Debug\net10.0\refint\EjerciciosExamen.dll
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\obj\Debug\net10.0\EjerciciosExamen.pdb
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\obj\Debug\net10.0\EjerciciosExamen.genruntimeconfig.cache
+C:\Users\user\Proyectos-POO\Examen-Primera-Unidad\EjerciciosExamen\obj\Debug\net10.0\ref\EjerciciosExamen.dll

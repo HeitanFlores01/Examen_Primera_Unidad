@@ -6,7 +6,36 @@ namespace EjerciciosExamen.Ejercicios
     {
         static void Main(string[] args)
         {
-            
+            // Ejercicio1 ejercicio1 = new Ejercicio1();
+
+            // ---------------------------------------------
+
+            // Ejercicio2 ejercicio2 = new Ejercicio2();
+
+            // ----------------------------------------------
+
+            // Console.WriteLine("Ingrese el numero de tabla que desea ver:");
+            // int.TryParse(Console.ReadLine(), out int tabla);
+
+            // Console.WriteLine("Ingrese el limite de números a visualizar:");
+            // int.TryParse(Console.ReadLine(), out int limite) ;
+
+            // Ejercicio3 ejercicio3 = new Ejercicio3(tabla, limite);
+
+            // --------------------------------------------------------------
+
+            // Person persona1 = new Person("Juan", "Perez", 19);
+            // Console.WriteLine(persona1.GetFullName());
+            // Console.WriteLine($"Es adulto: {persona1.IsAdult()}");
+            // Console.WriteLine($"{persona1.GetInfo()}");
+
+            Ejercicio4 Producto1 = new Ejercicio4("Llave 10", 65, 40);
+            Ejercicio4 Producto2 = new Ejercicio4("Alicate", 50, 35);
+
+            Console.WriteLine(Producto1.ObtenerInfo());
+            Console.WriteLine($"{Producto1.CalcularValorInventario}");
+            Console.WriteLine();
+
         }
     }
 }
