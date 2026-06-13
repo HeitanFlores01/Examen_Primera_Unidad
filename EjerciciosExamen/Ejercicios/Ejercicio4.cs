@@ -18,14 +18,15 @@ namespace EjerciciosExamen.Ejercicios
             return $"{Nombre} -- Precio: L. {Precio} -- Stock : {Stock}";
         }
 
-        public double CalcularValorInventario(double precio, int stock, double inventario)
+        public double CalcularValorInventario(double precio, int stock)
         {
-            return inventario = precio * stock;
+            return  precio * stock;
         }
 
-        // public decimal AplicarDescuento (decimal porcentaje)
+        // public decimal AplicarDescuento(decimal porcentaje)
         // {
-        //     porcentaje = inventario * 0.15m;
+        //     porcentaje = 0.15m;
+        //     return $"{Nombre} -- Precio: L. {Precio * porcentaje} -- Stock : {Stock}";
         // }
 
 

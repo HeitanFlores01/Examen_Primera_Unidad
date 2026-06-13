@@ -23,18 +23,19 @@ namespace EjerciciosExamen.Ejercicios
             // Ejercicio3 ejercicio3 = new Ejercicio3(tabla, limite);
 
             // --------------------------------------------------------------
-
-            // Person persona1 = new Person("Juan", "Perez", 19);
-            // Console.WriteLine(persona1.GetFullName());
-            // Console.WriteLine($"Es adulto: {persona1.IsAdult()}");
-            // Console.WriteLine($"{persona1.GetInfo()}");
-
+            
             Ejercicio4 Producto1 = new Ejercicio4("Llave 10", 65, 40);
             Ejercicio4 Producto2 = new Ejercicio4("Alicate", 50, 35);
 
             Console.WriteLine(Producto1.ObtenerInfo());
-            Console.WriteLine($"{Producto1.CalcularValorInventario}");
+            Console.WriteLine($"Valor del inventario : {Producto1.CalcularValorInventario(65, 40)}");
+
+            Console.WriteLine(Producto1.ObtenerInfo());
+            Console.WriteLine($"Valor del inventario : {Producto2.CalcularValorInventario(50, 35)}");
+
+            Console.WriteLine("Después del descuento");
             Console.WriteLine();
+           
 
         }
     }
